@@ -1,1 +1,1 @@
-An Undergraduate student in Sri Lanka. Who is interested in Software Development. The web development stack I mainly use is the MERN stack. I have hands-on experience with mobile applications development technologies like React-Native. Also, I'm looking forward to collaborating on open source and commercial projects. passionate and eager to learn new technologies and I consider myself a very good team player.
+

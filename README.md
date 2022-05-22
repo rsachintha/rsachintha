@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @rsachintha
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects
-
-<!---
-rsachintha/rsachintha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An Undergraduate student in Sri Lanka. Who is interested in Software Development. The web development stack I mainly use is the MERN stack. I have hands-on experience with mobile applications development technologies like React-Native. Also, I'm looking forward to collaborating on open source and commercial projects. passionate and eager to learn new technologies and I consider myself a very good team player.
